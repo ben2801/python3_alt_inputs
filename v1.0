@@ -6,7 +6,7 @@ Version 1.0 - Initial release 11/02/16
 A Python3 module that contains input functions that automatically converts 
 inputs into specified data types. E.g. "intput" would take an input and convert it into an int.
 
-Published on GitHub by Ben Myers (bm2801) at github.com/bm2801/python3_alt_inputs
+Published on GitHub by Ben Myers (ben2801) at github.com/bm2801/python3_alt_inputs
 
 Made in Python V3.2.3
 
