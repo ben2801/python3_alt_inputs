@@ -36,7 +36,7 @@ SOFTWARE.
 '''
 
 def intput(prompt): #Converts input into integer type
-	return int(input(prompt))
+    return int(input(prompt))
 
 def strinput(prompt): #Converts input into string type
     return str(input(prompt))
